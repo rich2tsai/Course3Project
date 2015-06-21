@@ -43,4 +43,4 @@ df$activity <- act_names
 #create summary table and write out to file
 library(reshape2)
 summary <- dcast(molten, subject.id + activity ~ variable, mean)
-#write.table(summary, row.names=FALSE, file = './summary.txt')
+write.table(summary, row.names=FALSE, file = './summary.txt')
