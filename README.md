@@ -25,4 +25,4 @@ The R script that performs the clean-up and transformations of the raw data.
 It describes the data, the variables and work that was performed to clean up the data.
 
 - features_info.txt : 
-The description of the measurements (a.k.a. variables or features) taken in the experiment.
+The description of the measurements (a.k.a. variables or features) taken in the experiment. (referred to by CodeBook)
