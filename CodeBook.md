@@ -12,6 +12,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The result is a data frame containing the averages of each variable for each activity and each subject/volunteer.
 
 It contains the following columns:
-- 'subject.id' : The id of the subject or volunteer
+- 'subject.id' : The id of the subject / volunteer
 - 'activity' : The description of the activity taken by the volunteer
-- measurements such as 'tBodyAcc-mean()-X' : The naming convention and description is contained in features_info.txt, provided in the raw data pack.
+- measurements such as 'tBodyAcc-mean()-X' : The naming convention and description is contained in features_info.txt, provided by the raw data pack referenced in the section above.
