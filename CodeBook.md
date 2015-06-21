@@ -14,4 +14,4 @@ The result is a data frame containing the averages of each variable for each act
 It contains the following columns:
 - 'subject.id' : The id of the subject / volunteer
 - 'activity' : The description of the activity taken by the volunteer
-- measurements such as 'tBodyAcc-mean()-X' : The naming convention and description is contained in features_info.txt, provided by the raw data pack referenced in the section above.
+- variables such as 'tBodyAcc-mean()-X' : The naming convention and description is contained in features_info.txt (copied from the raw data pack).
